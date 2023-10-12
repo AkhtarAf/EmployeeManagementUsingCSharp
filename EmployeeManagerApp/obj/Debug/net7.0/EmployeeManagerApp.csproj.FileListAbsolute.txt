@@ -1,0 +1,14 @@
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/bin/Debug/net7.0/EmployeeManagerApp
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/bin/Debug/net7.0/EmployeeManagerApp.deps.json
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/bin/Debug/net7.0/EmployeeManagerApp.runtimeconfig.json
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/bin/Debug/net7.0/EmployeeManagerApp.dll
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/bin/Debug/net7.0/EmployeeManagerApp.pdb
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/EmployeeManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/EmployeeManagerApp.AssemblyInfoInputs.cache
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/EmployeeManagerApp.AssemblyInfo.cs
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/EmployeeManagerApp.csproj.CoreCompileInputs.cache
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/EmployeeManagerApp.dll
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/refint/EmployeeManagerApp.dll
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/EmployeeManagerApp.pdb
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/EmployeeManagerApp.genruntimeconfig.cache
+/home/overrider/Documents/AfshanAkhtar/C#/EmployeeManagerApp/EmployeeManagerApp/obj/Debug/net7.0/ref/EmployeeManagerApp.dll
